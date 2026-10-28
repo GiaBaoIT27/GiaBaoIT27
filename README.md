@@ -1,12 +1,15 @@
 # Hi there, I'm Nguyen Gia Bao 👋
+
 <p align="left">
   <a href="https://linkedin.com/in/bao-nguyen-881939301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bbao270205@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-informational?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/English-APTIS%20B2%20(Score%20160)-blue?style=flat-square" alt="English" />
 </p>
-- 🎓 **Final-year Software Engineering Student at Ton Duc Thang University (TDTU)**  
-- 💻 Passionate about **Full-Stack Development**, **Domain-Driven Design (DDD)**, and **High-Concurrency Distributed Systems**.
+
+> 🎓 **Final-year Software Engineering Student at Ton Duc Thang University (TDTU)**  
+> 💻 Passionate about **Full-Stack Development**, **Domain-Driven Design (DDD)**, and **High-Concurrency Distributed Systems**.
+
 ---
 
 ### 🛠️ Languages & Tools
